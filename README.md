@@ -4,10 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Me llamo Gabriel Montenegro, tengo 20 años, vivo en Hurlingham, me interesé por la programación desde que salí del secundario. Arranque con arduino y continue aprendiendo más lenguajes interesantes.
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Ya había utilizado github varias veces con algunos proyectos.
